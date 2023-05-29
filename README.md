@@ -1,0 +1,2 @@
+# cv
+belajar ngoding
